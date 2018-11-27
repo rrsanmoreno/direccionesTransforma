@@ -1,0 +1,16 @@
+{
+  "estados":[{
+    
+    {"id": "e1","pais":"","nombre"},
+    {"id": "e2","pais":"","nombre"},
+    {"id": "e3","pais":"","nombre"},
+    {"id": "e3","pais":"","nombre"},
+    {"id": "e4","pais":"","nombre"},
+    {"id": "e5","pais":"","nombre"},
+    {"id": "e6","pais":"","nombre"},
+    {"id": "e7","pais":"","nombre"},
+    {"id": "e8","pais":"","nombre"},
+    {"id": "e9","pais":"","nombre"},
+    {"id": "e10","pais":"","nombre"},
+  }]
+}
