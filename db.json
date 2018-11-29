@@ -1,1 +1,1 @@
-{"paises": [{"id": "p1","nombre": "Chile"},{"id": "p2","nombre": "Puerto Rico"},{"id": "p3","nombre": "CENAM"},{"id": "p4","nombre": "Peru"}]}
+{'paises': [{'id': 'p1','nombre': 'Chile'},{'id': 'p2','nombre': 'Puerto Rico'},{'id': 'p3','nombre': 'CENAM'},{'id': 'p4','nombre': 'Peru'}]}
